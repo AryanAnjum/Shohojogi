@@ -1,6 +1,8 @@
 # Shohojogi
 # ResearchConnect - Academic Collaboration Platform
 
+This project was my CSE311 Database Systems. This was a solo project used Python Html Css for this project and for localhost used XAMPP.
+
 A web-based platform connecting students with research professionals, featuring secure authentication, scheduling tools, and project matching capabilities.
 
 ## Features
